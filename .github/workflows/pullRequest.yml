@@ -33,4 +33,4 @@ jobs:
             --region ap-northeast-2 \
             build s3://fe-30-choizia0724 \
             --delete
-        working-directory: client/build
+        working-directory: ./my-agora-states-client/build
